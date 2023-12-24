@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArtistFee>
+  <ArtistFee Name="q">
+    <Fee>1</Fee>
+  </ArtistFee>
+  <ArtistFee Name="qwe">
+    <Fee>2</Fee>
+  </ArtistFee>
+  <ArtistFee Name="yujq">
+    <Fee>3</Fee>
+  </ArtistFee>
+  <ArtistFee Name="q91c27iyh">
+    <Fee>4</Fee>
+  </ArtistFee>
+</ArrayOfArtistFee>

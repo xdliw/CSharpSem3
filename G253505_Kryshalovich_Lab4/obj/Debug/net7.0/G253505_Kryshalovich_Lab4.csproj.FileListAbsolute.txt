@@ -1,0 +1,15 @@
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\bin\Debug\net7.0\G253505_Kryshalovich_Lab4.exe
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\bin\Debug\net7.0\G253505_Kryshalovich_Lab4.deps.json
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\bin\Debug\net7.0\G253505_Kryshalovich_Lab4.runtimeconfig.json
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\bin\Debug\net7.0\G253505_Kryshalovich_Lab4.dll
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\bin\Debug\net7.0\G253505_Kryshalovich_Lab4.pdb
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.csproj.AssemblyReference.cache
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.AssemblyInfoInputs.cache
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.AssemblyInfo.cs
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.dll
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\refint\G253505_Kryshalovich_Lab4.dll
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.pdb
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\G253505_Kryshalovich_Lab4.genruntimeconfig.cache
+C:\Users\jonny\RiderProjects\CSharpSem3L1\G253505_Kryshalovich_Lab4\obj\Debug\net7.0\ref\G253505_Kryshalovich_Lab4.dll

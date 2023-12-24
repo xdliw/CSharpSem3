@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArtistFee>
+  <ArtistFee Name="q">
+    <Fee>1</Fee>
+  </ArtistFee>
+</ArrayOfArtistFee>

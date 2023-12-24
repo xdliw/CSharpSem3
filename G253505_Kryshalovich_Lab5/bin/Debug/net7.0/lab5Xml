@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArtistFee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArtistFee>
+    <Name>q</Name>
+    <Fee>1</Fee>
+  </ArtistFee>
+  <ArtistFee>
+    <Name>qwe</Name>
+    <Fee>2</Fee>
+  </ArtistFee>
+  <ArtistFee>
+    <Name>yujq</Name>
+    <Fee>3</Fee>
+  </ArtistFee>
+  <ArtistFee>
+    <Name>q91c27iyh</Name>
+    <Fee>4</Fee>
+  </ArtistFee>
+</ArrayOfArtistFee>
